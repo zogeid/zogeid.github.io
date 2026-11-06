@@ -1,0 +1,9 @@
+{
+  "recipes": [
+    {"id":"quesadilla","name":"Quesadilla","emoji":"🧀","ingredients":["Queso","Tortillas"]},
+    {"id":"tortilla","name":"Tortilla francesa","emoji":"🥚","ingredients":["Huevos"]},
+    {"id":"pasta","name":"Pasta tomate","emoji":"🍝","ingredients":["Pasta","Tomate frito"]},
+    {"id":"burguer","name":"Mini hamburguesas","emoji":"🍔","ingredients":["Pan","Carne"]},
+    {"id":"fish","name":"Merluza con arroz","emoji":"🐟","ingredients":["Merluza","Arroz"]}
+  ]
+}
